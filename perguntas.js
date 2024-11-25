@@ -1,23 +1,33 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
+    'One Piece',
+    'Qual foi o primeiro barco dos Chapéus de Palha?',
+    'Going Merry'
+)
+
+criaCartao(
+    'One Piece',
+    'Qual foi a recompensa inicial de Luffy?',
+    '30.000.000 Berries'
+)
+
+criaCartao(
+    'One Piece',
+    'Qual a ilha onde Luffy e os Chapéus de Palha encontram o Deus Enel?',
+    'Skypiea'
+)
+
+criaCartao(
+    'One Piece',
+    'Quem foi o primeiro membro da tripulação a se juntas a Luffy?',
+    'Zoro'
+)
+criaCartao(
+    'One Piece',
+    'Qual é a técnica de luta do Zoro baseada em 3 espadas?',
+    'Santoryu'
+)
+criaCartao(
+    'One Piece',
+    'O que é o One Piece?',
     'O Python é uma linguagem de programação'
-)
-
-criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
-)
-
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
 )
